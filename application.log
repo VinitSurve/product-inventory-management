@@ -1,0 +1,216 @@
+2026-11-23 09:32:53 - [INFO] - InventoryManagementSystem - === Inventory Operation Started ===
+2026-11-23 09:32:53 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 50000.00 x Qty=2 => Total=Rs. 100000.00
+2026-11-23 09:32:53 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 100000.00, Rate=10.00% => Discounted=Rs. 90000.00
+2026-11-23 09:32:53 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=2
+2026-11-23 09:32:53 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=10
+2026-11-23 09:32:53 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 5, Requested: 10
+2026-11-23 09:32:53 - [ERROR] - InventoryManagementSystem - Validation Error: Negative price provided: -1500.
+2026-11-23 09:32:53 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'str' (expected int).
+2026-11-23 09:32:53 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 150 out of range [0, 100].
+2026-11-23 09:32:53 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity cannot be negative: -3.
+2026-11-23 09:32:53 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:32:53 - [INFO] - InventoryManagementSystem - === Inventory Operation Completed Successfully ===
+2026-11-23 09:32:56 - [INFO] - InventoryManagementSystem - === Inventory Operation Started ===
+2026-11-23 09:32:56 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 50000.00 x Qty=2 => Total=Rs. 100000.00
+2026-11-23 09:32:56 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 100000.00, Rate=10.00% => Discounted=Rs. 90000.00
+2026-11-23 09:32:56 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=2
+2026-11-23 09:32:56 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=10
+2026-11-23 09:32:56 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 5, Requested: 10
+2026-11-23 09:32:56 - [ERROR] - InventoryManagementSystem - Validation Error: Negative price provided: -1500.
+2026-11-23 09:32:56 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'str' (expected int).
+2026-11-23 09:32:56 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 150 out of range [0, 100].
+2026-11-23 09:32:56 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity cannot be negative: -3.
+2026-11-23 09:32:56 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:32:56 - [INFO] - InventoryManagementSystem - === Inventory Operation Completed Successfully ===
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 50000.00 x Qty=2 => Total=Rs. 100000.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 250.50 x Qty=4 => Total=Rs. 1002.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 99.99 x Qty=3 => Total=Rs. 299.97
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 500.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=10 => Total=Rs. 0.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Negative price provided: -100.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Negative quantity provided: -2.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'str' (expected float or int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'NoneType' (expected float or int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'list' (expected float or int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'dict' (expected float or int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'float' (expected int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'str' (expected int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'NoneType' (expected int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'list' (expected int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'bool' (expected int).
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 100000.00, Rate=10.00% => Discounted=Rs. 90000.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 500.00, Rate=25.00% => Discounted=Rs. 375.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1200.50, Rate=15.00% => Discounted=Rs. 1020.42
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1500.00, Rate=0.00% => Discounted=Rs. 1500.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=0.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 2500.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:02 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 100.01 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 120 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 200 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -0.01 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -5 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -50 out of range [0, 100].
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Negative total provided: -500.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'str'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'NoneType'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'list'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'str'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'NoneType'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'list'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'bool'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'bool'.
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=5
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=100, Requested=1
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=5
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=6
+2026-11-23 09:33:02 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 5, Requested: 6
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=1
+2026-11-23 09:33:02 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 0, Requested: 1
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=0
+2026-11-23 09:33:02 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock cannot be negative: -5.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity cannot be negative: -2.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'float'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'str'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'NoneType'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'list'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'float'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'str'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'NoneType'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'list'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'bool'.
+2026-11-23 09:33:02 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 50000.00 x Qty=2 => Total=Rs. 100000.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 250.50 x Qty=4 => Total=Rs. 1002.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 99.99 x Qty=3 => Total=Rs. 299.97
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 500.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=10 => Total=Rs. 0.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Negative price provided: -100.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Negative quantity provided: -2.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'str' (expected float or int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'NoneType' (expected float or int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'list' (expected float or int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'dict' (expected float or int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'float' (expected int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'str' (expected int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'NoneType' (expected int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'list' (expected int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'bool' (expected int).
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 100000.00, Rate=10.00% => Discounted=Rs. 90000.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 500.00, Rate=25.00% => Discounted=Rs. 375.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1200.50, Rate=15.00% => Discounted=Rs. 1020.42
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1500.00, Rate=0.00% => Discounted=Rs. 1500.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=0.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 2500.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:05 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 100.01 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 120 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 200 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -0.01 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -5 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -50 out of range [0, 100].
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Negative total provided: -500.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'str'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'NoneType'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'list'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'str'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'NoneType'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'list'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'bool'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'bool'.
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=5
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=100, Requested=1
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=5
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=6
+2026-11-23 09:33:05 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 5, Requested: 6
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=1
+2026-11-23 09:33:05 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 0, Requested: 1
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=0
+2026-11-23 09:33:05 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock cannot be negative: -5.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity cannot be negative: -2.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'float'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'str'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'NoneType'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'list'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'float'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'str'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'NoneType'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'list'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'bool'.
+2026-11-23 09:33:05 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 50000.00 x Qty=2 => Total=Rs. 100000.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 250.50 x Qty=4 => Total=Rs. 1002.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 99.99 x Qty=3 => Total=Rs. 299.97
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 500.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=10 => Total=Rs. 0.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Total price calculated: Price=Rs. 0.00 x Qty=0 => Total=Rs. 0.00
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Negative price provided: -100.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Negative quantity provided: -2.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'str' (expected float or int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'NoneType' (expected float or int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'list' (expected float or int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'dict' (expected float or int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'float' (expected int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'str' (expected int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'NoneType' (expected int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'list' (expected int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid quantity type 'bool' (expected int).
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid price type 'bool' (expected float or int).
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 100000.00, Rate=10.00% => Discounted=Rs. 90000.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 500.00, Rate=25.00% => Discounted=Rs. 375.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1200.50, Rate=15.00% => Discounted=Rs. 1020.42
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 1500.00, Rate=0.00% => Discounted=Rs. 1500.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=0.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 2500.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:41 - [INFO] - InventoryManagementSystem - Discount applied: Total=Rs. 0.00, Rate=100.00% => Discounted=Rs. 0.00
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 100.01 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 120 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent 200 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -0.01 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -5 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Discount percent -50 out of range [0, 100].
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Negative total provided: -500.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'str'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'NoneType'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'list'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'str'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'NoneType'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'list'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid total type 'bool'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: Invalid discount_percent type 'bool'.
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=5
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=100, Requested=1
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=5
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=5, Requested=6
+2026-11-23 09:33:41 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 5, Requested: 6
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=1
+2026-11-23 09:33:41 - [WARNING] - InventoryManagementSystem - Stock Alert: Insufficient inventory! Available: 0, Requested: 1
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=10, Requested=0
+2026-11-23 09:33:41 - [DEBUG] - InventoryManagementSystem - Stock Check: Available=0, Requested=0
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock cannot be negative: -5.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity cannot be negative: -2.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'float'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'str'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'NoneType'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'list'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'float'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'str'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'NoneType'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'list'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: requested_quantity must be an int, got 'bool'.
+2026-11-23 09:33:41 - [ERROR] - InventoryManagementSystem - Validation Error: available_stock must be an int, got 'bool'.
